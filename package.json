@@ -1,0 +1,15 @@
+{
+  "name": "expresjs",
+  "version": "1.0.0",
+  "description": "expressjs tutorial by dikshant singh sumerwal",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dikshant singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "hbs": "^4.2.0"
+  }
+}
